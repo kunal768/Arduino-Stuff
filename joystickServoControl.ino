@@ -33,14 +33,14 @@ void loop() {
    valueX = analogRead(pinX);  //reads value for X direction and controls servo 1
   
   // for movement along positive X 
-  if(valueX >= 128){
+  if(valueX > 128){
     valueX = map(valueX , 0 , 256 , 128 , 256);
     servo1.write(valueX);
     delay(15);
   }
   
   // for movement along negative X
-  if(valueX <= 128){
+  if(valueX < 128){
     valueX = map(valueX , 0 , 256 , 0 , 128);
     servo1.write(valueX);
     delay(15);
@@ -49,14 +49,14 @@ void loop() {
    valueY = analogRead(pinY); //reads value for Y direction and hence controls servo 2
   
   // for movement along positive Y
-  if(valueY >= 128){
+  if(valueY >128){
    valueY = map(valueY , 0 , 256 , 128 , 256);
    servo2.write(valueY);
    delay(15);
   }
    
   // for movement along negative Y
-  if(valueY <= 128){
+  if(valueY < 128){
     valueY = map(valueY , 0 , 256 , 0 , 128);
     servo2.write(valueY);
     delay(15);
