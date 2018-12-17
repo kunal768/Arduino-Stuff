@@ -1,3 +1,3 @@
 # Arduino-Stuff
-this contains all codes I have written for my arduino projects
+this contains all codes I wrote when i started with ARDUINO 
 !!!!way to go
