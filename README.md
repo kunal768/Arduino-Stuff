@@ -17,14 +17,14 @@ Contains codes for the following:
 </ul>
 The details of the obstacle avoiding car project.... <br>
 <p> <strong> Rough Idea </strong> Dont judge me for the picture ... it was a decent try ... </p><br>
-<img src = "https://github.com/kunal768/Arduino-Stuff/blob/master/public/idea.JPG" h = "300" w = "300">
+<img src = "https://github.com/kunal768/Arduino-Stuff/blob/master/public/idea.JPG" h = "250" w = "250">
 <p> The connections are supposed to be like this : </p><br>
 <strong> IR CONNECTION </strong><br>
-<img src = "https://github.com/kunal768/Arduino-Stuff/blob/master/public/conn1.JPG"> 
+<img src = "https://github.com/kunal768/Arduino-Stuff/blob/master/public/conn1.JPG"  h = "250" w = "250"> 
 <strong>L298N Motor Driver Connection </strong><br>
-<img src = "https://github.com/kunal768/Arduino-Stuff/blob/master/public/conn2.JPG">
+<img src = "https://github.com/kunal768/Arduino-Stuff/blob/master/public/conn2.JPG"  h = "250" w = "250">
 <strong>The Servo Motor Connection </strong><br>
-<img src = "https://github.com/kunal768/Arduino-Stuff/blob/master/public/conn3.JPG">
+<img src = "https://github.com/kunal768/Arduino-Stuff/blob/master/public/conn3.JPG"  h = "250" w = "250">
 <em><strong> I hope this is quite beginner friendly </strong></em>
   
   
