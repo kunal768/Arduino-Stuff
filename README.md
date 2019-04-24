@@ -17,7 +17,7 @@ Contains codes for the following:
 </ul>
 The details of the obstacle avoiding car project.... <br>
 <p> <strong> Rough Idea </strong> Dont judge me for the picture ... it was a decent try ... </p><br>
-<img src = "https://github.com/kunal768/Arduino-Stuff/blob/master/public/idea.JPG">
+<img src = "https://github.com/kunal768/Arduino-Stuff/blob/master/public/idea.JPG" h = "300" w = "300">
 <p> The connections are supposed to be like this : </p><br>
 <strong> IR CONNECTION </strong><br>
 <img src = "https://github.com/kunal768/Arduino-Stuff/blob/master/public/conn1.JPG"> 
